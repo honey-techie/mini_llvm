@@ -53,7 +53,7 @@ opt -enable-new-pm=0 -load ./MemoryAnalysisPass.so -memory-analysis-pass < optim
 
 If you encounter any issues or have questions about the project, please don't hesitate to reach out for support. You can contact m via:
 
-- GitHub Issues: [Link to GitHub Issues page](https://github.com/gauraviiitg/mini_llvm/issues)
+- GitHub Issues: [Link to GitHub Issues page](https://github.com/honey-techie/mini_llvm)
 
 Please provide as much detail as possible when reporting problems, including error messages, screenshots, and steps to reproduce the issue.
   
